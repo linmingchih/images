@@ -1,6 +1,6 @@
 ---
 title: A2
 layout: template
-filename: readme.md FILE HERE
+filename: readme.md
 --- 
 # 第二頁面
